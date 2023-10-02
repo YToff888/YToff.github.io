@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ytoff888.github.io/YToff.github.io/</id>
+    <title>YToff&apos;s blog.</title>
+    <updated>2023-10-02T14:02:02.541Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ytoff888.github.io/YToff.github.io/"/>
+    <link rel="self" href="https://ytoff888.github.io/YToff.github.io/atom.xml"/>
+    <subtitle>我想变有钱！</subtitle>
+    <logo>https://ytoff888.github.io/YToff.github.io/images/avatar.png</logo>
+    <icon>https://ytoff888.github.io/YToff.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, YToff&apos;s blog.</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello！My blog]]></title>
+        <id>https://ytoff888.github.io/YToff.github.io/post/hellomy-blog/</id>
+        <link href="https://ytoff888.github.io/YToff.github.io/post/hellomy-blog/">
+        </link>
+        <updated>2023-09-30T07:22:42.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>今天创建了自己的博客。这时候还只知道一些特别浅显的web知识，真正开始打ctf也才一个月都不到，跟着室友和哥们后面学习。时常会焦虑，还会懈怠放摊摆烂，希望自己能保持学习上进的主旋律吧。成为一个厉害的ctfer，一个薪资高的安全工作者，一个Toff！哈哈哈哈······
+</code></pre>
+]]></content>
+    </entry>
+</feed>
